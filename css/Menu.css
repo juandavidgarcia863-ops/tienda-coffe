@@ -46,6 +46,19 @@ header {
     cursor: pointer;
     transition: transform 0.3s ease, color 0,3s ease;
 }
+.carrito #contador{
+    position: absolute;
+    top: 30px;
+    right: 20px;
+
+    background: #e2750f;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 4px 7px;
+    border-radius: 50%;
+
+}
 
 
 
